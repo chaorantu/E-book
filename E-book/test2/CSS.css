@@ -1,0 +1,194 @@
+#top
+{
+    width: 1024px;
+    margin: auto;
+    height: 150px;
+    background-image: url(images/zhong.jpg);
+}
+
+#whole
+{
+    width: 100%;
+    height: 100%;
+}
+#left
+{
+    width: 10px;
+    height: 150px;
+    background-image: url(images/left.jpg);
+    float: left;
+}
+
+#right
+{
+    width: 10px;
+    height: 150px;
+    margin-left: 1015px;
+    background-image: url(images/r.jpg);
+}
+#zhong
+{
+    width: 1000px;
+    margin-left: 10px;
+    height: 150px;
+    background-image: url(images/zhong.jpg);
+    float: left;
+}
+
+#title
+{
+    margin-left: 40px;
+    width: 250px;
+    height: 50px;
+    margin-top: 27px;
+    float: left;
+}
+#contern
+{
+    font-family: "华文楷体";
+    font-size: 28px;
+    color: #336699;
+}
+#login
+{
+    width: 300px;
+    margin-left: 670px;
+    height: 60px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#longtow
+{
+    font-family: "华文楷体";
+    font-size: 30px;
+    color: #999999;
+}
+#plugin
+{
+    font-family: "华文楷体";
+    font-size: 50px;
+    margin-left: 400px;
+    margin-top: 35px;
+    height: 70px;
+    float: left;
+    padding-top: 10px;
+    color: #999999;
+}
+#button
+{
+    width: 1024px;
+    margin: 0 auto;
+    height: 41px;
+    background-image: url(images/button.jpg);
+}
+#underground
+{
+    height: 55px;
+    width: 1024px;
+    margin: auto;
+    background-image: url(images/xiazhong.jpg);
+}
+#Cooperationwebsite
+{
+    height: 20px;
+    width: 765px;
+    margin: auto;
+}
+a:link
+{
+    font-family: "宋体";
+    font-size: 16px;
+    color: #4DB3B3;
+    text-decoration: none;
+}
+a:visited
+{
+    font-family: 华文楷体;
+    color: #4DB3B3;
+}
+a:hover
+{
+    color: #000000;
+}
+.li
+{
+    list-style-type: none;
+    list-style-position: outside;
+    float: left;
+    display:inline;
+}
+.button
+{
+    font-family: "华文楷体";
+    font-size: 25px;
+    color: #CCCCCC;
+    margin-left: 50px;
+}
+#Change
+{
+    width: 1024px;
+    height: 700px;
+    margin: auto;
+    padding-top: 200px;
+    background-image: url(images/change.jpg);
+}
+#table
+{
+    height: 300px;
+    width: 450px;
+    margin: auto;
+}
+#tableleft
+{
+    float: left;
+}
+#tablezhong
+{
+    background-image: url(images/tablezhong.gif);
+    height: 309px;
+    width: 407px;
+    float: left;
+}
+#tableright
+{
+    margin-left: 426px;
+    width: 20px;
+}
+#loaging
+{
+    margin: auto;
+    width: 250px;
+    margin-top: 100px;
+}
+.UserPws
+{
+    font-family: "华文楷体";
+    font-size: 15px;
+    color: #CCCCCC;
+}
+#butonClick
+{
+    background-image: url(images/denglu.gif);
+    height: 40px;
+    width: 110px;
+    border-bottom-style: outset;
+    background-color: #003399;
+}
+#table tr td
+{
+    font-family: 华文楷体;
+    color: #CCCCCC;
+    font-size: 15px;
+}
+#loagingtwo
+{
+    margin: auto;
+    width: 250px;
+    margin-top: 40px;
+}
+#zc
+{
+    margin-left:20px;
+    font-family:华文楷体;
+}

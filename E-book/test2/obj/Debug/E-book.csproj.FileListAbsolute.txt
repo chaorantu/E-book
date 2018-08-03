@@ -1,0 +1,5 @@
+E:\TCR\课程设计\1210315205涂超然\E-book\test2\bin\test2.dll
+E:\TCR\课程设计\1210315205涂超然\E-book\test2\bin\test2.pdb
+E:\TCR\课程设计\1210315205涂超然\E-book\test2\obj\Debug\E-book.csprojResolveAssemblyReference.cache
+E:\TCR\课程设计\1210315205涂超然\E-book\test2\obj\Debug\test2.dll
+E:\TCR\课程设计\1210315205涂超然\E-book\test2\obj\Debug\test2.pdb

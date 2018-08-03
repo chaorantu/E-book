@@ -1,0 +1,5 @@
+E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\bin\test2.dll
+E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\bin\test2.pdb
+E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Debug\test2.dll
+E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Debug\test2.pdb
+E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache

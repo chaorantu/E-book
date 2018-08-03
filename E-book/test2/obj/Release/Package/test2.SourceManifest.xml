@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\360data\重要数据\我的文档\Visual Studio 2012\Projects\test2\test2\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
